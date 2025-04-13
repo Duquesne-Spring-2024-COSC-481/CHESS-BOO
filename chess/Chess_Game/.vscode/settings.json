@@ -1,12 +1,4 @@
-{
 
-    // "java.test.config": [
-    //     {
-    //         "name": "jacoco",
-    //         "vmargs": ["-javaagent:/Users/mariamswanu/Documents/GitHub/Mariam-Swanu/PersonalBudgetPlot/src/jacoco.sh/.vscode/org.jacoco.agent-0.8.11-runtime.jar=destfile=target/jacoco.exec,append=false"]
-    //         //"-javaagent:/Users/mariamswanu/Documents/GitHub/Mariam-Swanu/PersonalBudgetPlot/src/jacoco.sh"
-    //     }
-    // ],
     "java.test.config": [
         
         {
@@ -20,7 +12,7 @@
         "src/"
     ],
     "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
+    "java. project.referencedLibraries": [
         "lib/**/*.jar"
     ]
   
