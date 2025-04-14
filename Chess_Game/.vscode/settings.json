@@ -1,30 +1,7 @@
 {
-
-    // "java.test.config": [
-    //     {
-    //         "name": "jacoco",
-    //         "vmargs": ["-javaagent:/Users/mariamswanu/Documents/GitHub/Mariam-Swanu/PersonalBudgetPlot/src/jacoco.sh/.vscode/org.jacoco.agent-0.8.11-runtime.jar=destfile=target/jacoco.exec,append=false"]
-    //         //"-javaagent:/Users/mariamswanu/Documents/GitHub/Mariam-Swanu/PersonalBudgetPlot/src/jacoco.sh"
-    //     }
-    // ],
-    "java.test.config": [
-        
-        {
-        "name": "jacoco",
-        "vmargs": ["-javaagent:${workspaceFolder}/lib/org.jacoco.agent-0.8.11-runtime.jar=destfile=${workspaceFolder}/target/jacoco.exec,append=false"]
-        }
-        ],
-
-
-    "java.project.sourcePaths": [
-        "src/"
-    ],
+    "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ]
-  
-
 }
-//java -jar lib/org.jacoco.cli-0.8.11-nodeps.jar report target/jacoco.exec --classfiles bin --sourcefiles src --htmltarget/site/jacoco --xml target/site/jacoco/jacoco.xml
-
