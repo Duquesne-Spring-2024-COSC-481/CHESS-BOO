@@ -4,14 +4,14 @@ This project introduces an AI-driven Chess Game that allows players to compete a
 As a developer with a newfound fascination for chess's strategic depth, this project is motivated by the desire to explore how AI can simulate human-like decision-making in this complex game
 
 
-# The project encompasses the following key components:
+# This project encompasses the following key components:
 
-## Chess Logic Implementation: Ensuring valid piece movements, detecting check/checkmate conditions, and managing turn-based play.   
+**Chess Logic Implementation:** Ensuring valid piece movements, detecting check/checkmate conditions, and managing turn-based play.   
 
-## AI Opponent: Implementing the Minimax algorithm with Alpha-Beta Pruning to optimize move selection and search efficiency.   
+**AI Opponent:** Implementing the Minimax algorithm with Alpha-Beta Pruning to optimize move selection and search efficiency.   
 
-## User Interaction: Designing an intuitive user interface with click-and-drag movement, move validation, and optional hints for legal moves.   
+**User Interaction:** Designing an intuitive user interface with click-and-drag movement, move validation, and optional hints for legal moves.   
 
-## Adaptive Difficulty: Introducing rule-based adjustments or machine learning techniques to modify AI behavior based on player performance.   
+**Adaptive Difficulty:** Introducing rule-based adjustments or machine learning techniques to modify AI behavior based on player performance.   
 
-## Optional Features: Including undo/redo functionality and performance tracking for players
+**Optional Features:** Including undo/redo functionality and performance tracking for players
