@@ -1,0 +1,15 @@
+## Overview of Chess Rules and Piece Movements
+Chess is played on an 8x8 square grid known as a chessboard, with each of the two players controlling 16 pieces at the outset: one king, one queen, two rooks, two knights, two bishops, and eight pawns. 
+
+While traditionally one set of pieces is white and the other black, you're welcome to choose any color scheme. 
+
+The ultimate aim is to place the opponent's king under an inescapable threat of capture, known as checkmate. 
+
+Here's a concise rundown of how each piece moves:
+
+King: Can move one square in any direction.
+Queen: Capable of moving any number of squares along a row, column, or diagonal.
+Rook: Travels any number of squares along a row or column.
+Bishop: Diagonally moves over any number of squares.
+Knight: Leaps in an 'L' shape, covering two squares in one direction and then one square perpendicular, or vice versa, able to jump over other pieces.
+Pawn: Advances forward by one square (or two from its initial position), captures diagonally, and is subject to unique moves like 'en passant' and promotion.
