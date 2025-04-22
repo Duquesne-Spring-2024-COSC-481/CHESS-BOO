@@ -2,11 +2,11 @@ import java.util.List;
 
 public class GameController {
     private ChessBoard board;
-    private ChessAI ai; // Assuming you have a ChessAI instance
+    private ChessAI ai; 
 
     public GameController() {
         this.board = new ChessBoard();
-        this.ai = new ChessAI(3); // Initialize AI with a search depth
+        this.ai = new ChessAI(3); 
     }
 
     public ChessBoard getBoard() {
