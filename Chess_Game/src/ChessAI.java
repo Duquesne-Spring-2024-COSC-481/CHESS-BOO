@@ -73,7 +73,7 @@ public class ChessAI {
     private boolean isGameOver(ChessBoard board) {
         // Basic check for no legal moves for the current player
         return board.getAllPossibleMoves(board.getCurrentPlayer()).isEmpty();
-        // A more complete implementation would check for checkmate and stalemate
+      
     }
 
     // Helper class to return both the score and the move
