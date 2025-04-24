@@ -1,6 +1,4 @@
 ## CHESS
-<div align="center"><img src="/Users/mariamswanu/Documents/GitHub/CHESS-BOO/Chess_Game/src/Images/Chzz.png" alt="Chess Board" width="500" height="500" align="centre"></div>
-
 This project introduces an AI-driven Chess Game that allows players to compete against an intelligent, adaptive opponent. Drawing inspiration from the exploration of AI's evolution in strategic games, as discussed in Stuart Russell's "Artificial Intelligence: A Modern Approach", this project leverages the complexity of chess as a testbed for advanced decision-making algorithms. The core of the AI opponent is built upon the Minimax algorithm with Alpha-Beta Pruning, enabling strategic move evaluation and providing an engaging gameplay experience.   
 
 As a developer with a newfound fascination for chess's strategic depth, this project is motivated by the desire to explore how AI can simulate human-like decision-making in this complex game
